@@ -1,0 +1,1 @@
+select iif(Phai = N'Nam', 'Mr.','Ms.') + TENNV as Ten from NHANVIEN
